@@ -1,6 +1,6 @@
 # Title: Armatic/Custom Blacklist Domains
 # ===============================================================
 
-0.0.0.0 *.googleapis.com
-0.0.0.0 *.microsoft.com
-0.0.0.0 *.adobe.com
+0.0.0.0 googleapis.com
+0.0.0.0 microsoft.com
+0.0.0.0 adobe.com
