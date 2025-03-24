@@ -621,7 +621,6 @@
 ||caere.it^
 ||cairomail.com^
 ||calcuttaads.com^
-||calendar-server.bounces.google.com^
 ||calidifontain.be^
 ||californiamail.com^
 ||callnetuk.com^
@@ -1031,9 +1030,7 @@
 ||dnainternet.net^
 ||dnsmadeeasy.com^
 ||doar.net^
-||doclist.bounces.google.com^
 ||docmail.cz^
-||docs.google.com^
 ||doctor.com^
 ||dodgeit.com^
 ||dodgit.com^
@@ -1679,12 +1676,6 @@
 ||globetrotter.net^
 ||globo.com^
 ||globomail.com^
-||gmail.co.za^
-||gmail.com^
-||gmail.com.au^
-||gmail.com.br^
-||gmail.ru^
-||gmial.com^
 ||gmx.at^
 ||gmx.ch^
 ||gmx.co.uk^
@@ -1718,9 +1709,6 @@
 ||gonuts4free.com^
 ||goodnewsmail.com^
 ||goodstick.com^
-||google.com^
-||googlegroups.com^
-||googlemail.com^
 ||goosemoose.com^
 ||goplay.com^
 ||gorillaswithdirtyarmpits.com^
@@ -4541,7 +4529,6 @@
 ||plexolan.de^
 ||pluno.com^
 ||plus.com^
-||plus.google.com^
 ||plusmail.com.br^
 ||pmail.net^
 ||pobox.com^
